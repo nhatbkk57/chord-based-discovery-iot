@@ -1,0 +1,192 @@
+Number of rings: 1
+Number of nodes: 4
+new ring: <ring.Ring object at 0x7f2c24e1bdd0>
+[1, 8, 0, 14]
+Generate rings list: 1
+Ring[ 1 ]:
+Nodes: 1 8 0 14 joinFirst: 0 joinFirst: 1 joinFirst: 2 joinFirst: 3 
+NodeOld: 1
+initFingerTable at Node: 2
+FindSuccessor of node 3 at Node 1
+2 updateFingerTable
+FindSuccessor of node 3 at Node 2
+FindSuccessor of node 4 at Node 2
+FindSuccessor of node 6 at Node 2
+FindSuccessor of node 10 at Node 2
+1 updateFingerTable
+FindSuccessor of node 2 at Node 1
+FindSuccessor of node 3 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 2 test closest: <node.Node object at 0x7f2c24e1be50>
+FindSuccessor of node 3 at Node 2
+findSuccessor return succ: 1
+FindSuccessor of node 5 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 2 test closest: <node.Node object at 0x7f2c24e1be50>
+FindSuccessor of node 5 at Node 2
+findSuccessor return succ: 1
+FindSuccessor of node 9 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 2 test closest: <node.Node object at 0x7f2c24e1be50>
+FindSuccessor of node 9 at Node 2
+findSuccessor return succ: 1
+NodeOld: 2
+initFingerTable at Node: 3
+FindSuccessor of node 4 at Node 2
+3 updateFingerTable
+FindSuccessor of node 4 at Node 3
+FindSuccessor of node 5 at Node 3
+FindSuccessor of node 7 at Node 3
+FindSuccessor of node 11 at Node 3
+1 updateFingerTable
+FindSuccessor of node 2 at Node 1
+FindSuccessor of node 3 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 2 test closest: <node.Node object at 0x7f2c24e1be50>
+FindSuccessor of node 3 at Node 2
+findSuccessor return succ: 3
+FindSuccessor of node 5 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+FindSuccessor of node 5 at Node 3
+findSuccessor return succ: 1
+FindSuccessor of node 9 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+FindSuccessor of node 9 at Node 3
+findSuccessor return succ: 1
+2 updateFingerTable
+FindSuccessor of node 3 at Node 2
+FindSuccessor of node 4 at Node 2
+finger.start 10 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 6 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+FindSuccessor of node 4 at Node 3
+findSuccessor return succ: 1
+FindSuccessor of node 6 at Node 2
+finger.start 10 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 6 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+FindSuccessor of node 6 at Node 3
+findSuccessor return succ: 1
+FindSuccessor of node 10 at Node 2
+finger.start 10 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 6 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+FindSuccessor of node 10 at Node 3
+findSuccessor return succ: 1
+NodeOld: 3
+initFingerTable at Node: 4
+FindSuccessor of node 5 at Node 3
+4 updateFingerTable
+FindSuccessor of node 5 at Node 4
+FindSuccessor of node 6 at Node 4
+FindSuccessor of node 8 at Node 4
+FindSuccessor of node 12 at Node 4
+1 updateFingerTable
+FindSuccessor of node 2 at Node 1
+FindSuccessor of node 3 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+finger.start 2 test closest: <node.Node object at 0x7f2c24e1be50>
+FindSuccessor of node 3 at Node 2
+findSuccessor return succ: 3
+FindSuccessor of node 5 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+FindSuccessor of node 5 at Node 3
+finger.start 11 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 7 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1be10>
+FindSuccessor of node 5 at Node 4
+findSuccessor return succ: 1
+findSuccessor return succ: 1
+FindSuccessor of node 9 at Node 1
+finger.start 9 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+FindSuccessor of node 9 at Node 3
+finger.start 11 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 7 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1be10>
+FindSuccessor of node 9 at Node 4
+findSuccessor return succ: 1
+findSuccessor return succ: 1
+2 updateFingerTable
+FindSuccessor of node 3 at Node 2
+FindSuccessor of node 4 at Node 2
+finger.start 10 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 6 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 3 test closest: <node.Node object at 0x7f2c24e1be90>
+FindSuccessor of node 4 at Node 3
+findSuccessor return succ: 4
+FindSuccessor of node 6 at Node 2
+finger.start 10 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 6 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1bed0>
+FindSuccessor of node 6 at Node 4
+findSuccessor return succ: 1
+FindSuccessor of node 10 at Node 2
+finger.start 10 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 6 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1bed0>
+FindSuccessor of node 10 at Node 4
+findSuccessor return succ: 1
+3 updateFingerTable
+FindSuccessor of node 4 at Node 3
+FindSuccessor of node 5 at Node 3
+finger.start 11 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 7 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1bed0>
+FindSuccessor of node 5 at Node 4
+findSuccessor return succ: 1
+FindSuccessor of node 7 at Node 3
+finger.start 11 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 7 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1bed0>
+FindSuccessor of node 7 at Node 4
+findSuccessor return succ: 1
+FindSuccessor of node 11 at Node 3
+finger.start 11 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 7 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 5 test closest: <node.Node object at 0x7f2c24e1be10>
+finger.start 4 test closest: <node.Node object at 0x7f2c24e1bed0>
+FindSuccessor of node 11 at Node 4
+findSuccessor return succ: 1
+
+Node- 1
+     Ring: 1
+     Keys: []
+     FingerTable: 2 - 2 | 3 - 3 | 5 - 1 | 9 - 1 | 
+Node- 2
+     Ring: 1
+     Keys: []
+     FingerTable: 3 - 3 | 4 - 4 | 6 - 1 | 10 - 1 | 
+Node- 3
+     Ring: 1
+     Keys: []
+     FingerTable: 4 - 4 | 5 - 1 | 7 - 1 | 11 - 1 | 
+Node- 4
+     Ring: 1
+     Keys: []
+     FingerTable: 5 - 1 | 6 - 1 | 8 - 1 | 12 - 1 |
