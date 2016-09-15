@@ -6,6 +6,9 @@
 - Implemented Chord basic operatior (join, leave, lookup ...) on 1 ring
 - Implemented hashing sha1 for key 
 
+## install
+- install Flask web service: sudo pip install Flask 
+- Clone or Download git repository: https://github.com/nhatbkk57/chord-based-discovery-iot.git
 ## usage
 
 ### step 1: run Flask web service
