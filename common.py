@@ -7,6 +7,7 @@ def get_node_byID(nodes,id):
             return n
     return None
 
+
 def isInInterval(val,left,right,equal_left,equal_right):
     # print "Test:",left,right,equal_left,equal_right
     if (equal_left and val == left):
@@ -68,7 +69,7 @@ def isInInterval(val,left,right,equal_left,equal_right):
 #     return intKey
 
 
-def hashKey(ringID,nodeID,sensorID):
+def hashKey(nodeID,sensorID):
     #md5
     md5 = hashlib.md5()
     #sha1

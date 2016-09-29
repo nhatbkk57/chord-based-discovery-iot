@@ -18,12 +18,14 @@ class Ring(object):
     def create_(self):
         # self.nodes[2].id = 3
         # self.nodes[3].id = 4
-        self.nodes[0].joinFirst()
-        len_node = len(self.nodes)
+        if (len(self.nodes) > 0):
+            self.nodes[0].joinFirst(self.id)
+            len_node = len(self.nodes)
         # print 'test=',isInInterval(3,7,1,False,True)
         # print ''
-        for i in range(1,len_node):
-            self.nodes[i].join(self.nodes[i-1])
+            if (len_node > 1):
+                for i in range(1,len_node):
+                    self.nodes[i].join(self.nodes[i-1])
 
         
 
